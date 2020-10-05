@@ -6,8 +6,8 @@ namespace Open_Lab_01._04
     {
         public double Area(double foundation, double height)
         {
-            double obsah = (foundation * height) / 2;
-            return obsah;
+            double area = (foundation * height) / 2;
+            return area;
         }
     }
 }
